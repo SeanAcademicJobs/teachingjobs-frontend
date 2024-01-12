@@ -155,7 +155,7 @@ export default function Header() {
               </button>
               <div className=" flex justify-between items-center gap-10">
                 <a
-                  href="https://myteachingjobs.com.au/school-pricing/"
+                  href="https://www.postmyjob.online/school-pricing/"
                   target="_blank"
                   className="text-[#e39e39] hover:underline font-bold p-4 border border-[#e39e39] rounded-r-3xl "
                   rel="noreferrer"

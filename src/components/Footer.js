@@ -36,7 +36,7 @@ const Footer = () => {
                         <li className='text-white font-bold text-xl pb-1 '>School</li>
                     
                         <li ><Link to="/about/">About TJ</Link></li>
-                        <li target="_blank" ><a target="_blank"  className="footer-nav__link" href="https://myteachingjobs.com.au/school-pricing/">Post a Job</a></li>
+                        <li target="_blank" ><a target="_blank"  className="footer-nav__link" href="https://www.postmyjob.online/school-pricing/">Post a Job</a></li>
                                              
                                              <li target="_blank" ><Link target="_blank"  to="/contact-us/">Contact Us</Link></li>
                                             
